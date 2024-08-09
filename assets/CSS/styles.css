@@ -103,6 +103,7 @@
   background-color: rgb(209, 209, 160);
   justify-content: space-between;
   height: 45vh;
+  max-height: 45ch;
   font: 40px;
 }
 
